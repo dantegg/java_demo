@@ -9,6 +9,9 @@ public class CovarianceDemo {
 
         Node<Banana> banana1 = new Node<>(new Banana(), null);
         Node<Banana> bananaNode = new Node<>(new Banana(), banana1);
+
+        printForEach(apple3);
+        printForEach(bananaNode);
     }
 
     static void printForEach(Node<? extends Fruit> n) {
