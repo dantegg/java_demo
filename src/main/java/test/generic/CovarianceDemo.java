@@ -11,7 +11,7 @@ public class CovarianceDemo {
         Node<Banana> bananaNode = new Node<>(new Banana(), banana1);
     }
 
-    static void printForEach(Node<? extends Fruit> e) {
+    static void printForEach(Node<? extends Fruit> n) {
         Node<? extends Fruit> node = n;
         do {
             System.out.println(node.value);
