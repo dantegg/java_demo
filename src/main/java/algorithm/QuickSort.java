@@ -6,25 +6,28 @@ public class QuickSort {
 
 
     public void sort(int[] arr, int low, int high) {
-        if (low > high) {
-            return;
+        int pivot;
+        if (low < high) {
+            pivot = partition(arr ,low, high);
+            sort(arr, low, pivot-1);
+            sort(arr, pivot+1, high);
         }
-        int key = arr[low];
-        int i = low;
-        int j = high;
-        while(i<j) {
-            while (i<j && arr[j] > key) {
-                j--;
+    }
+
+    public int partition(int[] arr, int low, int high) {
+        int pivot = arr[low];
+        while(low < high) {
+            while (high > low && arr[high] >= pivot) {
+                high --;
             }
-            if (i<j) arr[i++] = arr[j];
-            while (i<j && arr[i] <= key) {
-                i++;
+            arr[low] = arr[high];
+            while(high>low && arr[low] <= pivot) {
+                low++;
             }
-            if (i<j) arr[j--] = arr[i];
+            arr[high] = arr[low];
         }
-        arr[i] = key;
-        sort(arr, low, i-1);
-        sort(arr, i+1, high);
+        arr[low] = pivot;
+        return low;
     }
 
     @Test

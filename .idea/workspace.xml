@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8d0f502-b5c1-4c00-bb4d-a29a5fb68e48" name="Default Changelist" comment="" />
+    <list default="true" id="e8d0f502-b5c1-4c00-bb4d-a29a5fb68e48" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/algorithm/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/algorithm/QuickSort.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
+            <state relative-caret-position="240">
               <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
             </state>
           </provider>
@@ -105,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="388">
+              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -181,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="634" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -191,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -271,7 +276,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -414,8 +418,8 @@
     <list>
       <item itemvalue="Application.TestIterator" />
       <item itemvalue="Application.CovarianceDemo" />
-      <item itemvalue="JUnit.TestC.testC" />
       <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="JUnit.TestC.testC" />
       <item itemvalue="JUnit.QuickSort.testDemo" />
     </list>
     <recent_temporary>
@@ -450,23 +454,12 @@
       <workItem from="1556333274407" duration="1253000" />
       <workItem from="1557230926805" duration="225000" />
       <workItem from="1557299515833" duration="5546000" />
-      <workItem from="1557738191937" duration="7177000" />
+      <workItem from="1557738191937" duration="7427000" />
+      <workItem from="1557799589706" duration="1340000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 40m 05s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 40m 25s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 46m 15s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 49m 03s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 51m 18s.xml">
       <configuration name="QuickSort.testDemo" configurationId="JUnit" />
     </history-entry>
@@ -485,15 +478,27 @@
     <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 01m 57s.xml">
       <configuration name="QuickSort.testDemo" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 05m 44s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 05m 51s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 45m 50s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 53m 59s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46755000" />
+    <option name="totallyTimeSpent" value="48345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27705976" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42487884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -506,7 +511,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23338048" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3281471" />
@@ -860,6 +865,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/test/generic/Util.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -915,13 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/generic/CovarianceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -931,15 +930,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="240">
           <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="388">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
         </state>
       </provider>
     </entry>
