@@ -20,33 +20,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/generic/Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Comparable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="98" column="65" selection-start-line="98" selection-start-column="65" selection-end-line="98" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/generic/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/generic/Fruit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -106,11 +79,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="210">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/AbsoluteSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/AbSortFunc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="475" column="17" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -131,8 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/reentrance/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/readwritelock/Counter.java" />
         <option value="$PROJECT_DIR$/src/main/java/readwritelock/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/Condition/TaskQueue.java" />
         <option value="$PROJECT_DIR$/src/main/java/Condition/WorkerThread.java" />
@@ -182,12 +187,16 @@
         <option value="$PROJECT_DIR$/src/main/java/test/generic/CovarianceDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithm/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/AbSortFunc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/algorithm/AbsoluteSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="x" value="160" />
+    <option name="y" value="114" />
+    <option name="width" value="960" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -195,8 +204,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,9 +310,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.QuickSort.testDemo">
+  <component name="RunManager" selected="Application.AbsoluteSort">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbsoluteSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.AbsoluteSort" />
+      <module name="test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -324,20 +347,6 @@
     </configuration>
     <configuration name="CovarianceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.generic.CovarianceDemo" />
-      <module name="test" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.generic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestIterator" />
       <module name="test" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -416,19 +425,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestIterator" />
       <item itemvalue="Application.CovarianceDemo" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="JUnit.TestC.testC" />
       <item itemvalue="JUnit.QuickSort.testDemo" />
+      <item itemvalue="Application.AbsoluteSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbsoluteSort" />
         <item itemvalue="JUnit.QuickSort.testDemo" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.CovarianceDemo" />
         <item itemvalue="JUnit.TestC.testC" />
-        <item itemvalue="Application.TestIterator" />
       </list>
     </recent_temporary>
   </component>
@@ -455,29 +464,12 @@
       <workItem from="1557230926805" duration="225000" />
       <workItem from="1557299515833" duration="5546000" />
       <workItem from="1557738191937" duration="7427000" />
-      <workItem from="1557799589706" duration="1340000" />
+      <workItem from="1557799589706" duration="1780000" />
+      <workItem from="1557822530796" duration="665000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 51m 18s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 51m 40s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.13 at 23h 53m 47s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 00m 14s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 01m 16s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 01m 57s.xml">
-      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="QuickSort_testDemo - 2019.05.14 at 00h 05m 44s.xml">
       <configuration name="QuickSort.testDemo" configurationId="JUnit" />
     </history-entry>
@@ -490,15 +482,33 @@
     <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 53m 59s.xml">
       <configuration name="QuickSort.testDemo" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 54m 24s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 55m 03s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 56m 23s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 58m 04s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 59m 06s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="QuickSort_testDemo - 2019.05.14 at 11h 59m 31s.xml">
+      <configuration name="QuickSort.testDemo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48345000" />
+    <option name="totallyTimeSpent" value="49450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42487884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2374798" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -548,21 +558,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/blockingqueue/WorkerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/readwritelock/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ConcurrentExecutor.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Compare/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -937,8 +932,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="210">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="475" column="17" selection-start-line="475" selection-start-column="17" selection-end-line="475" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/AbSortFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="69" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="69" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/algorithm/AbsoluteSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

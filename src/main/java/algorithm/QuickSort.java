@@ -17,12 +17,15 @@ public class QuickSort {
     public int partition(int[] arr, int low, int high) {
         int pivot = arr[low];
         while(low < high) {
+            System.out.println("low is "+ low + ", high is " + high);
             while (high > low && arr[high] >= pivot) {
                 high --;
+                System.out.println("high --:"+ high);
             }
             arr[low] = arr[high];
             while(high>low && arr[low] <= pivot) {
                 low++;
+                System.out.println("low++:"+ low);
             }
             arr[high] = arr[low];
         }
