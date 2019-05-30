@@ -7,6 +7,7 @@ import java.util.Map;
 public class FindMaxCount {
 
     public static void main(String... args) {
+        // find max count char from a string
         String a = "djdnvalgqevzccdgqjnma";
         String[] vv = a.split("");
         HashSet<String> ss = new HashSet<>();

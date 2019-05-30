@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="javaProjects" />
         <module name="test" />
+        <module name="java_demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
@@ -15,7 +16,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_STRING" value="-parameters" />
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="javaProjects" options="" />
+      <module name="java_demo" options="" />
     </option>
   </component>
 </project>
