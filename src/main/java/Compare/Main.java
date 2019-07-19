@@ -30,5 +30,18 @@ public class Main {
         }
 
 
+        Person p3 = new Person(4L, "xx");
+        Person p4 = new Person(3L, "vv");
+
+        List<Person> pp = Arrays.asList(p3, p4);
+
+        System.out.println(pp);
+        pp.forEach(person -> System.out.println(person.getName()));
+        pp.sort(new PersonComparator());
+
+
+        pp.forEach(person -> System.out.println(person.getName()));
+
+
     }
 }
