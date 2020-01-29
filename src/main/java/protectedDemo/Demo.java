@@ -1,4 +1,4 @@
-package protectedDemo;
+package main.java.protectedDemo;
 
 import org.junit.jupiter.api.Test;
 

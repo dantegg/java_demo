@@ -1,4 +1,4 @@
-package test;
+package main.java.test;
 
 @MyAnnotation
 public class AnnotationUse {

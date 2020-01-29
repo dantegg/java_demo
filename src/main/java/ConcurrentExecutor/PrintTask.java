@@ -1,4 +1,4 @@
-package ConcurrentExecutor;
+package main.java.ConcurrentExecutor;
 
 public class PrintTask implements Runnable {
 

@@ -1,4 +1,4 @@
-package ConcurrentFuture;
+package main.java.ConcurrentFuture;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

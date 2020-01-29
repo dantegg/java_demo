@@ -1,4 +1,4 @@
-package readwritelock;
+package main.java.readwritelock;
 
 public class Main {
 

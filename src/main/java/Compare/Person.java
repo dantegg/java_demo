@@ -1,4 +1,4 @@
-package Compare;
+package main.java.Compare;
 
 public class Person {
 

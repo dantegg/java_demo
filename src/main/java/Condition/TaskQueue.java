@@ -1,4 +1,4 @@
-package Condition;
+package main.java.Condition;
 
 import java.util.LinkedList;
 import java.util.Queue;

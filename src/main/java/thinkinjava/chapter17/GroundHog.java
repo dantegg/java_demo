@@ -1,4 +1,4 @@
-package thinkinjava.chapter17;
+package main.java.thinkinjava.chapter17;
 
 public class GroundHog {
 

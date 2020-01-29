@@ -5,7 +5,7 @@ public class Main {
     private static int LOOP = 10000;
 
     public static void main(String[] args) throws Exception {
-        Counter c = new Counter();
+        main.java.ConcurrentAtomic.Counter c = new main.java.ConcurrentAtomic.Counter();
         Thread t1 = new Thread() {
             @Override
             public void run() {

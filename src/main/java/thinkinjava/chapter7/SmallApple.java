@@ -1,4 +1,4 @@
-package thinkinjava.chapter7;
+package main.java.thinkinjava.chapter7;
 
 public class SmallApple extends Apple {
     public SmallApple() {

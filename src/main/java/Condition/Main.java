@@ -1,4 +1,4 @@
-package Condition;
+package main.java.Condition;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException{

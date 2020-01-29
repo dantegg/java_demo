@@ -1,4 +1,4 @@
-package countdownlatchtest;
+package main.java.countdownlatchtest;
 
 import java.util.concurrent.CountDownLatch;
 

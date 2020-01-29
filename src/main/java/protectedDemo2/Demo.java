@@ -1,7 +1,7 @@
-package protectedDemo2;
+package main.java.protectedDemo2;
 
 import org.junit.jupiter.api.Test;
-import protectedDemo.Cookie;
+import main.java.protectedDemo.Cookie;
 
 public class Demo {
 

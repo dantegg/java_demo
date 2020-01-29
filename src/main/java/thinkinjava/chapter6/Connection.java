@@ -1,4 +1,4 @@
-package thinkinjava.chapter6;
+package main.java.thinkinjava.chapter6;
 
 public class Connection {
 

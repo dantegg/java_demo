@@ -1,4 +1,4 @@
-package reentrance;
+package main.java.reentrance;
 
 import org.junit.jupiter.api.Test;
 

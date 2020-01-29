@@ -1,4 +1,4 @@
-package ThreadLocalLearn;
+package main.java.ThreadLocalLearn;
 
 public class UserContext implements AutoCloseable {
     static final ThreadLocal<User> context = new ThreadLocal<>();

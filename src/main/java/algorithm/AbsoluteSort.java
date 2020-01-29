@@ -1,4 +1,4 @@
-package algorithm;
+package main.java.algorithm;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package CompletableFuture;
+package main.java.CompletableFuture;
 
 import java.util.concurrent.CompletableFuture;
 import java.util.function.Consumer;

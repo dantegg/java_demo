@@ -1,4 +1,4 @@
-package ConcurrentFuture;
+package main.java.ConcurrentFuture;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

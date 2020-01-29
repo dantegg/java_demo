@@ -1,4 +1,4 @@
-package algorithm;
+package main.java.algorithm;
 
 import org.junit.jupiter.api.Test;
 

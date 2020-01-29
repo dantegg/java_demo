@@ -1,4 +1,4 @@
-package annotationTest;
+package main.java.annotationTest;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package protectedDemo;
+package main.java.protectedDemo;
 
 public class Cookie {
 

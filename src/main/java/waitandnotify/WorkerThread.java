@@ -1,4 +1,4 @@
-package waitandnotify;
+package main.java.waitandnotify;
 
 public class WorkerThread extends Thread {
     TaskQueue queue;

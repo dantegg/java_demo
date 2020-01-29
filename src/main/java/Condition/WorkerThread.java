@@ -1,4 +1,4 @@
-package Condition;
+package main.java.Condition;
 
 public class WorkerThread extends Thread {
     TaskQueue queue;

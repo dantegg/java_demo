@@ -1,4 +1,4 @@
-package ThreadLocalLearn;
+package main.java.ThreadLocalLearn;
 
 public class Level {
     public static void checkLevel() {
