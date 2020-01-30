@@ -2,106 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b67154-6581-462c-ab4b-9778dcfc7981" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Compare/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Compare/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Compare/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Compare/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CompletableFuture/CompletableFutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CompletableFuture/CompletableFutureDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CompletableFuture/DownloadUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CompletableFuture/DownloadUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CompletableFuture/StockSupplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CompletableFuture/StockSupplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentAtomic/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentAtomic/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentAtomic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConcurrentAtomic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/HelloTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/HelloTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/PrintTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/PrintTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/Schedule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentExecutor/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentFuture/DownloadTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentFuture/DownloadTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConcurrentFuture/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConcurrentFuture/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Condition/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Condition/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Condition/TaskQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Condition/TaskQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Condition/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Condition/WorkerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForkJoinTask/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForkJoinTask/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ForkJoinTask/SumTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ForkJoinTask/SumTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/Greeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/Greeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/Level.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/ProcessThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/ProcessThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/UserContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreadLocalLearn/UserContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/AbSortFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/AbSortFunc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/AbsoluteSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/AbsoluteSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/FindMaxCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/FindMaxCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/algorithm/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/annotationTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationTest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/annotationTest/NotNull.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationTest/NotNull.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/annotationTest/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotationTest/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/blockingqueue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/blockingqueue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/blockingqueue/ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/blockingqueue/ThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/blockingqueue/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/blockingqueue/WorkerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/countdownlatchtest/CountDownLatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/countdownlatchtest/CountDownLatchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/protectedDemo/Cookie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/protectedDemo/Cookie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/protectedDemo/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/protectedDemo/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/protectedDemo2/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/protectedDemo2/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/readwritelock/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/readwritelock/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/readwritelock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/readwritelock/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reentrance/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reentrance/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reentrance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reentrance/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reentrance/TestReentrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reentrance/TestReentrant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/AbstractSon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/AbstractSon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/AbstractSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/AbstractSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/AddThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/AddThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Aitem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Aitem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/AnnotationUse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/AnnotationUse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Athread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Athread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/BasicC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/BasicC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Bthread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Bthread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/CalculateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/CalculateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/CovariantReturn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/CovariantReturn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/DeadLockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/DeadLockMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/DesThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/DesThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/DotThis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/DotThis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/ExtendsC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/ExtendsC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/ExtendsC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/ExtendsC2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Grain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Grain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/HelloThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/HelloThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Mill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Mill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/MyAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/MyAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Parcel1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Parcel1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/People.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/People.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/QueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/SetOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/SetOfInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/SharedObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/SharedObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/SimpleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/SimpleCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/TestPrint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/TestPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/ThreadDeamon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/ThreadDeamon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/ThreadLearn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/ThreadLearn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Wheat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Wheat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/WheatMill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/WheatMill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter17/GroundHog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter17/GroundHog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter17/Prediction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter17/Prediction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter17/SpringDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter17/SpringDetector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/ConnectionManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/ConnectionManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Lunch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Lunch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Soup1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Soup1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Soup2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter6/Soup2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter7/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter7/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter7/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter7/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter7/SmallApple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thinkinjava/chapter7/SmallApple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/waitandnotify/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/waitandnotify/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/waitandnotify/TaskQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/waitandnotify/TaskQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/waitandnotify/WorkerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/waitandnotify/WorkerThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xmlSax/MyHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xmlSax/MyHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xmlSax/XmlSax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xmlSax/XmlSax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/ConcurrentAtomic/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/ConcurrentAtomic/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/ConcurrentAtomic/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/concurrent/TicketMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/concurrent/TicketWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/Compare/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/Compare/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/CompletableFuture/CompletableFutureDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/CompletableFuture/CompletableFutureDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/CompletableFuture/CompletableFutureDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/CompletableFuture/DownloadUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/CompletableFuture/StockSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentAtomic/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentExecutor/HelloTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentExecutor/PrintTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentExecutor/Schedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentExecutor/ThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentFuture/DownloadTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ConcurrentFuture/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/Condition/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/Condition/TaskQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/Condition/WorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ForkJoinTask/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ForkJoinTask/SumTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ThreadLocalLearn/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ThreadLocalLearn/Level.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ThreadLocalLearn/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ThreadLocalLearn/ProcessThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ThreadLocalLearn/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/ThreadLocalLearn/UserContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/algorithm/AbSortFunc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/algorithm/AbsoluteSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/algorithm/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/algorithm/FindMaxCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/algorithm/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/annotationTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/annotationTest/NotNull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/annotationTest/Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/blockingqueue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/blockingqueue/ThreadPoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/blockingqueue/WorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/countdownlatchtest/CountDownLatchTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/countdownlatchtest/CountDownLatchTest$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/countdownlatchtest/CountDownLatchTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/protectedDemo/Cookie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/protectedDemo/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/protectedDemo2/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/readwritelock/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/readwritelock/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/readwritelock/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/readwritelock/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/Main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/Main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/Main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/reentrance/TestReentrant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/AbstractSon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/AbstractSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/AddThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Aitem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/AnnotationUse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Athread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/BasicC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Bthread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/CalculateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/CovariantReturn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/DeadLockMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/DesThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/DotThis$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/DotThis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/ExtendsC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/ExtendsC2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Grain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/HelloThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Instrument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/MainTest$Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/MainTest$Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/MainTest$Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/MainTest$RedApple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Mill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/MyAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Parcel1$Contents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Parcel1$Destinantion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Parcel1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/QueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/SetOfInteger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/SharedObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/SimpleCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/TestC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/TestIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/TestPrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/ThreadDeamon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/ThreadLearn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/Wheat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/test/WheatMill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter17/GroundHog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter17/MapEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter17/Prediction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter17/SimpleHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter17/SpringDetector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter6/Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter6/ConnectionManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter6/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter6/Lunch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter6/Soup1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter6/Soup2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter7/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter7/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/thinkinjava/chapter7/SmallApple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/waitandnotify/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/waitandnotify/TaskQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/waitandnotify/WorkerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/xmlSax/MyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/main/java/xmlSax/XmlSax.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Banana.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/BoundDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/CovarianceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/NodeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Toy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaProjects/test/generic/Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concurrent/TicketMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrent/TicketMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,36 +172,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560094919040" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.TicketMain">
+  <component name="RunManager" selected="Application.ThreadInterrupt">
     <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.QueueDemo" />
-      <module name="javaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.SetOfInteger" />
-      <module name="javaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.SimpleCollection" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
@@ -189,6 +203,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThreadInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.ThreadInterrupt" />
+      <module name="javaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadYield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.ThreadYield" />
+      <module name="javaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TicketMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrent.TicketMain" />
       <module name="javaProjects" />
@@ -203,19 +243,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleCollection" />
-      <item itemvalue="Application.SetOfInteger" />
       <item itemvalue="Application.QueueDemo" />
       <item itemvalue="Application.SpringDetector" />
       <item itemvalue="Application.TicketMain" />
+      <item itemvalue="Application.ThreadYield" />
+      <item itemvalue="Application.ThreadInterrupt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadInterrupt" />
+        <item itemvalue="Application.ThreadYield" />
         <item itemvalue="Application.TicketMain" />
         <item itemvalue="Application.SpringDetector" />
         <item itemvalue="Application.QueueDemo" />
-        <item itemvalue="Application.SetOfInteger" />
-        <item itemvalue="Application.SimpleCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +295,9 @@
       <workItem from="1559965997711" duration="5085000" />
       <workItem from="1560090284544" duration="4291000" />
       <workItem from="1580276429622" duration="357000" />
-      <workItem from="1580277134385" duration="2489000" />
+      <workItem from="1580277134385" duration="7205000" />
+      <workItem from="1580379192344" duration="235000" />
+      <workItem from="1580379439412" duration="342000" />
     </task>
     <servers />
   </component>
@@ -263,18 +305,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1580277476044">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1580379567508">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580277476044" />
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1580379567508" />
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1580281409681">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580281409681" />
     <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580277153122">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580277153122" />
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580277149342">
+    <state width="938" height="250" key="GridCell.Tab.0.bottom" timestamp="1580379428090">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580277149342" />
+    <state width="938" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580379428090" />
+    <state width="938" height="250" key="GridCell.Tab.0.center" timestamp="1580379428090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="250" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580379428090" />
+    <state width="938" height="250" key="GridCell.Tab.0.left" timestamp="1580379428090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="250" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580379428090" />
+    <state width="938" height="250" key="GridCell.Tab.0.right" timestamp="1580379428090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="938" height="250" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580379428090" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580379439505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580379439505" />
     <state x="658" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580278043052">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
