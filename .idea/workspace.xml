@@ -1,15 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="04b67154-6581-462c-ab4b-9778dcfc7981" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrent/TicketMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrent/TicketMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concurrent/TicketWindowRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concurrent/TicketWindowRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -22,6 +42,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1X3aFRwuDMC57KNr5M74mJGgDmE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -39,11 +62,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560094919040" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/pp/p3c-master/idea-plugin/p3c-idea" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.TicketWindowRunnable">
+  <component name="RunManager" selected="Application.Mutex">
     <configuration name="FlightQueryExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concurrent.FlightQueryExample" />
       <module name="javaProjects" />
@@ -57,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="concurrent.ThreadInterrupt" />
+    <configuration name="Mutex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.Mutex" />
       <module name="javaProjects" />
       <extension name="coverage">
         <pattern>
@@ -111,18 +136,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.TicketMain" />
-      <item itemvalue="Application.ThreadInterrupt" />
       <item itemvalue="Application.ThreadJoin" />
       <item itemvalue="Application.FlightQueryExample" />
       <item itemvalue="Application.TicketWindowRunnable" />
+      <item itemvalue="Application.Mutex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Mutex" />
         <item itemvalue="Application.TicketWindowRunnable" />
         <item itemvalue="Application.TicketMain" />
         <item itemvalue="Application.FlightQueryExample" />
         <item itemvalue="Application.ThreadJoin" />
-        <item itemvalue="Application.ThreadInterrupt" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +190,40 @@
       <workItem from="1580277134385" duration="7205000" />
       <workItem from="1580379192344" duration="235000" />
       <workItem from="1580379439412" duration="2143000" />
-      <workItem from="1580611932450" duration="5568000" />
+      <workItem from="1580611932450" duration="7211000" />
+      <workItem from="1580631393211" duration="974000" />
+      <workItem from="1580700493075" duration="994000" />
+      <workItem from="1583659562291" duration="489000" />
+      <workItem from="1583983379743" duration="92000" />
+      <workItem from="1583991787165" duration="73000" />
+      <workItem from="1583991886951" duration="882000" />
+      <workItem from="1583992864139" duration="36000" />
+      <workItem from="1583992905749" duration="6000" />
+      <workItem from="1583992973005" duration="444000" />
+      <workItem from="1583993433652" duration="28000" />
+      <workItem from="1583993473401" duration="246000" />
+      <workItem from="1583993737952" duration="37000" />
+      <workItem from="1583993794463" duration="1075000" />
+      <workItem from="1583994886038" duration="82000" />
+      <workItem from="1583994997679" duration="343000" />
+      <workItem from="1583995358263" duration="27000" />
+      <workItem from="1583995397855" duration="722000" />
+      <workItem from="1583996142062" duration="23000" />
+      <workItem from="1583996207337" duration="521000" />
+      <workItem from="1583996745257" duration="51000" />
+      <workItem from="1583996808232" duration="756000" />
+      <workItem from="1583997648048" duration="34000" />
+      <workItem from="1583997735190" duration="1209000" />
+      <workItem from="1587308950924" duration="29000" />
+      <workItem from="1588090992566" duration="4000" />
+      <workItem from="1588258919488" duration="4000" />
+      <workItem from="1588518444085" duration="4000" />
+      <workItem from="1588519207615" duration="3000" />
+      <workItem from="1588529517725" duration="22000" />
+      <workItem from="1596552346525" duration="12000" />
+      <workItem from="1596721212632" duration="51000" />
+      <workItem from="1596721711596" duration="2606000" />
+      <workItem from="1599956345038" duration="599000" />
     </task>
     <servers />
   </component>
@@ -173,70 +231,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="198" key="#Project_Structure" timestamp="1580379567508">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="739" y="260" key="FileChooserDialogImpl" timestamp="1596722396963">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1580379567508" />
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1580612241679">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="739" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596722396963" />
+    <state x="640" y="351" key="com.intellij.ide.util.TipDialog" timestamp="1596721223827">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580612241679" />
-    <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580611970009">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="640" y="351" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596721223827" />
+    <state x="334" y="129" key="new project wizard" timestamp="1596722414008">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580611970009" />
-    <state x="715" y="242" width="675" height="596" key="#xdebugger.evaluate" timestamp="1580628461901">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="715" y="242" width="675" height="596" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1580628461901" />
-    <state width="1877" height="250" key="GridCell.Tab.0.bottom" timestamp="1580629222732">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580629222732" />
-    <state width="1877" height="250" key="GridCell.Tab.0.center" timestamp="1580629222732">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="250" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580629222732" />
-    <state width="1877" height="250" key="GridCell.Tab.0.left" timestamp="1580629222732">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="250" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580629222732" />
-    <state width="1877" height="250" key="GridCell.Tab.0.right" timestamp="1580629222732">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="250" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580629222732" />
-    <state width="1877" height="361" key="GridCell.Tab.1.bottom" timestamp="1580628494931">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="361" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580628494931" />
-    <state width="1877" height="361" key="GridCell.Tab.1.center" timestamp="1580628494931">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="361" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580628494931" />
-    <state width="1877" height="361" key="GridCell.Tab.1.left" timestamp="1580628494931">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="361" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580628494931" />
-    <state width="1877" height="361" key="GridCell.Tab.1.right" timestamp="1580628494931">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="361" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580628494931" />
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1580611960151">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580611960151" />
-    <state x="658" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580278043052">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="658" y="433" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1580278043052" />
-    <state x="567" y="90" width="786" height="900" key="find.popup" timestamp="1580278295563">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="567" y="90" width="786" height="900" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580278295563" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1580277304498">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580277304498" />
+    <state x="334" y="129" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1596722414008" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -275,6 +281,11 @@
           <url>file://$PROJECT_DIR$/src/concurrent/TicketMain.java</url>
           <line>14</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/concurrent/Mutex.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/test/SimpleCollection.java</url>
