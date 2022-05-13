@@ -8,7 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../shopping/.idea/libraries/org_fkjava_dto_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping/src/main/resources/dto.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -302,6 +306,7 @@
       <workItem from="1522563462418" duration="25898000" />
       <workItem from="1523964347573" duration="5000" />
       <workItem from="1652329735449" duration="1175000" />
+      <workItem from="1652399716844" duration="741000" />
     </task>
     <servers />
   </component>
