@@ -8,10 +8,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_fkjava_dto_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopping/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/c3p0.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/c3p0.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/c3p0.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/ArticleTypeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/shopmgr/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/shopmgr/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/c3p0.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/bean/ArticleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/bean/ArticleType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/dto.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping/index.jsp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,10 +84,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="last_opened_file_path" value="F:/Downloads/Spring与MyBatis实现电商模块源码/org.fkjava.dto-2.0.RELEASE.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46040723" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -197,7 +215,7 @@
         </option>
       </method>
     </configuration>
-    <configuration name="shop" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.32" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration name="shop" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat " ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -281,6 +299,28 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -300,119 +340,89 @@
       <workItem from="1523964347573" duration="5000" />
       <workItem from="1652329735449" duration="1175000" />
       <workItem from="1652399716844" duration="2049000" />
-      <workItem from="1652487487491" duration="1275000" />
+      <workItem from="1652487487491" duration="5466000" />
     </task>
     <servers />
-  </component>
-  <component name="TodoView" selected-index="2">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="198" key="#Project_Structure" timestamp="1652518208557">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1652518208557" />
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652518869923">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652518869923" />
     <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1652329742397">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652329742397" />
+    <state x="641" y="148" key="#shop" timestamp="1652516503569">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="641" y="148" key="#shop/0.0.1920.1080@0.0.1920.1080" timestamp="1652516503569" />
+    <state x="634" y="280" key="FileChooserDialogImpl" timestamp="1652518346673">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="634" y="280" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1652518346673" />
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1652518539945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539945" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1652518539944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1652518539945">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1293" height="295" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539945" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1652518351190">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1652518351190" />
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652487526820">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652487526820" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <last-edited>shopmgr</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.46040723" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Detection</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.46040723" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.46040723" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.46040723" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>shopmgr</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.46040723" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: org.aspectj:aspectjweaver:1.8.5</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.46040723" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

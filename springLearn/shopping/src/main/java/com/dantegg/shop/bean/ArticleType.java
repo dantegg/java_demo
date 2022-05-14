@@ -1,5 +1,8 @@
 package com.dantegg.shop.bean;
 
+/**
+ * @author dantegg
+ */
 public class ArticleType implements java.io.Serializable{
 
 	private static final long serialVersionUID = 1L;
@@ -27,4 +30,12 @@ public class ArticleType implements java.io.Serializable{
 		return this.remark;
 	}
 
+	@Override
+	public String toString() {
+		return "ArticleType{" +
+				"code='" + code + '\'' +
+				", name='" + name + '\'' +
+				", remark='" + remark + '\'' +
+				'}';
+	}
 }
