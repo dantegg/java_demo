@@ -8,11 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../shopping/.idea/libraries/org_fkjava_dto_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopping/src/main/resources/dto.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/c3p0.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,12 +58,6 @@
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="75" />
-    <option name="y" value="39" />
-    <option name="width" value="1046" />
-    <option name="height" value="494" />
   </component>
   <component name="ProjectId" id="29375dDL8qhJo0khjbxIafdnmqM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -306,7 +299,8 @@
       <workItem from="1522563462418" duration="25898000" />
       <workItem from="1523964347573" duration="5000" />
       <workItem from="1652329735449" duration="1175000" />
-      <workItem from="1652399716844" duration="741000" />
+      <workItem from="1652399716844" duration="2049000" />
+      <workItem from="1652487487491" duration="1275000" />
     </task>
     <servers />
   </component>
@@ -327,6 +321,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="806" y="429" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652329742397" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652487526820">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652487526820" />
   </component>
   <component name="masterDetails">
     <states>
