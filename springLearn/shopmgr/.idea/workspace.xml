@@ -10,10 +10,11 @@
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -321,7 +322,7 @@
       <workItem from="1652329735449" duration="1175000" />
       <workItem from="1652399716844" duration="2049000" />
       <workItem from="1652487487491" duration="5754000" />
-      <workItem from="1652572763320" duration="1056000" />
+      <workItem from="1652572763320" duration="2435000" />
     </task>
     <servers />
   </component>
