@@ -8,27 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_fkjava_dto_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shopping/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/c3p0.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/c3p0.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/ArticleTypeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/shopmgr/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/c3p0.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/c3p0.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/bean/ArticleType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/bean/ArticleType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/TestMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/dto.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopping/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -309,11 +294,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -340,7 +320,8 @@
       <workItem from="1523964347573" duration="5000" />
       <workItem from="1652329735449" duration="1175000" />
       <workItem from="1652399716844" duration="2049000" />
-      <workItem from="1652487487491" duration="5466000" />
+      <workItem from="1652487487491" duration="5754000" />
+      <workItem from="1652572763320" duration="1056000" />
     </task>
     <servers />
   </component>
