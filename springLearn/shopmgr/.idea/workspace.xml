@@ -11,10 +11,26 @@
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/LoginServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/resources/spring/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/resources/spring/application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/spring/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/spring/application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/spring/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/spring/application.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -295,6 +311,11 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
             </expand>
             <select />
           </treeState>
@@ -322,7 +343,8 @@
       <workItem from="1652329735449" duration="1175000" />
       <workItem from="1652399716844" duration="2049000" />
       <workItem from="1652487487491" duration="5754000" />
-      <workItem from="1652572763320" duration="2435000" />
+      <workItem from="1652572763320" duration="2622000" />
+      <workItem from="1652659538856" duration="3350000" />
     </task>
     <servers />
   </component>
@@ -350,61 +372,61 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="634" y="280" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1652518346673" />
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1652663771040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
+    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1652663771040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
+    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1652663771040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
+    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1652663771040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1652518539945">
+    <state width="1293" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539945" />
-    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1652518539944">
+    <state width="1293" height="295" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539944" />
-    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1652518539945">
+    <state width="1293" height="295" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1652663771041">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652518539945" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
     <state x="440" y="114" key="SettingsEditor" timestamp="1652518351190">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1652518351190" />
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652487526820">
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652661822441">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652487526820" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652661822441" />
   </component>
 </project>

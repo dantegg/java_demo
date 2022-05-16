@@ -30,7 +30,7 @@
         </property>
     </bean>
 <!--    配置扫描数据访问层接口的路径，为数据访问层接口做实现类对象-->
-    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer" p:sqlSessionFactoryBeanName="sqlSessionFactory">
         <property name="basePackage">
             <value>
                 com.dantegg.shop.repository

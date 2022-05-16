@@ -52,7 +52,8 @@ public class LoginServlet extends HttpServlet {
             if((Integer) results.get("code") == 0 ) {
                 User user = (User) results.get("msg");
                 request.setAttribute(Constants.USER_SESSION, user);
-                request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);
+                response.sendRedirect(request.getContextPath() + "/list");
+                // request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);
             } else {
                 String msg = (String) results.get("msg");
                 request.setAttribute("msg", msg);

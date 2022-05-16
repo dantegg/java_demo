@@ -1,7 +1,9 @@
 package com.dantegg.shop.service;
 
+import com.dantegg.shop.bean.Article;
 import com.dantegg.shop.bean.ArticleType;
 import com.dantegg.shop.bean.User;
+import com.dantegg.shop.repository.ArticleMapper;
 import com.dantegg.shop.repository.ArticleTypeMapper;
 import com.dantegg.shop.repository.UserMapper;
 import com.mysql.jdbc.StringUtils;
@@ -22,6 +24,9 @@ public class ShopServiceImpl implements ShopService {
     //得到数据层访问对象
     @Resource
     private ArticleTypeMapper articleTypeMapper;
+
+    @Resource
+    private ArticleMapper articleMapper;
 
     @Resource
     private UserMapper userMapper;
@@ -51,5 +56,14 @@ public class ShopServiceImpl implements ShopService {
             }
         }
         return results;
+    }
+
+    public List<ArticleType> loadFirstArticleTypes() {
+        List<ArticleType> articleTypes = articleTypeMapper.getFirstArticleTypes();
+        return articleTypes;
+    }
+
+    public List<Article> searchArticles() {
+        return articleMapper.searchArticles();
     }
 }
