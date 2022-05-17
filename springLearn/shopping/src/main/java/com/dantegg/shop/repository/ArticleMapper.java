@@ -9,6 +9,9 @@ import java.util.List;
  */
 public interface ArticleMapper {
 
+    /**
+     * @return
+     */
     List<Article> searchArticles();
 
 }

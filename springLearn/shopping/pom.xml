@@ -103,6 +103,5 @@
 
   </dependencies>
   <build>
-    <finalName>shopmgr</finalName>
   </build>
 </project>

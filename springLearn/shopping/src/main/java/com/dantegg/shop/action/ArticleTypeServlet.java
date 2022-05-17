@@ -35,7 +35,6 @@ public class   ArticleTypeServlet extends HttpServlet {
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         super.service(request, response);
         List<ArticleType> articleTypes = shopService.getArticleTypes();
-        System.out.println("====success");
         System.out.println(articleTypes);
 
     }

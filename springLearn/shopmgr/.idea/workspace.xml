@@ -9,28 +9,160 @@
   <component name="ChangeListManager">
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/shopmgr_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/shopmgr_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/shopmgr_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/shopmgr_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/ArticleTypeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/ArticleTypeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/ListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/action/ListServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleTypeMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/service/ShopServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/ArticleTypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/ArticleTypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/resources/com.dantegg.shop.repository/UserMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/src/main/resources/spring/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/resources/spring/application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/ArticleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/ArticleTypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/ArticleTypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com.dantegg.shop.repository/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/ArticleTypeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/ArticleTypeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/ListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/ListServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/action/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/bean/Article.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/bean/Article.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/bean/ArticleType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/bean/ArticleType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/bean/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/bean/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/repository/UserMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/service/ShopServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/com/dantegg/shop/utils/Constants.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../shopping/target/classes/spring/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/classes/spring/application.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/ArticleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/LoginServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/spring/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/spring/application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/c3p0.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/ArticleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/ArticleTypeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com.dantegg.shop.repository/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/ArticleTypeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/ListServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/action/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/bean/Article.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/bean/ArticleType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/bean/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/ArticleTypeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/repository/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/service/ShopServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/com/dantegg/shop/utils/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/dto.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/classes/spring/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/jsp/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/jsp/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/jsp/preArticle.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/jsp/updateArticle.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/aspectjweaver-1.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/c3p0-0.9.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/commons-beanutils-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/commons-lang-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/ezmorph-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/json-lib-2.4-jdk15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/mchange-commons-java-0.2.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/mysql-connector-java-5.1.35.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-orm-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/bootstrap/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/css/taobao.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0001_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0007_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_1_0008_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_2_0001_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_2_0001_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_3_0002_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/images/article/20130401_4_0001_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/jquery/jquery-1.11.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/jquery/jquery-migrate-1.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/target/shopmgr/resources/js/taobao.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,12 +183,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>ref</find>
-      <find>exampleModal</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -90,7 +216,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="F:/Downloads/Spring与MyBatis实现电商模块源码/org.fkjava.dto-2.0.RELEASE.jar!/" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.46040723" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -311,11 +437,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -344,7 +465,9 @@
       <workItem from="1652399716844" duration="2049000" />
       <workItem from="1652487487491" duration="5754000" />
       <workItem from="1652572763320" duration="2622000" />
-      <workItem from="1652659538856" duration="3350000" />
+      <workItem from="1652659538856" duration="3351000" />
+      <workItem from="1652744578171" duration="2154000" />
+      <workItem from="1652747061847" duration="2881000" />
     </task>
     <servers />
   </component>
@@ -372,61 +495,65 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="634" y="280" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1652518346673" />
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1652663771040">
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
-    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1652663771040">
+    <state width="1293" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.0.center" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
-    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1652663771040">
+    <state width="1293" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.0.left" timestamp="1652664999146">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
-    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1652663771040">
+    <state width="1293" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999146" />
+    <state width="1293" height="295" key="GridCell.Tab.0.right" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771040" />
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.1.center" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.1.left" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.1.right" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom" timestamp="1652664999148">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999148" />
+    <state width="1293" height="295" key="GridCell.Tab.2.center" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.2.left" timestamp="1652664999147">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1652663771041">
+    <state width="1293" height="295" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999147" />
+    <state width="1293" height="295" key="GridCell.Tab.2.right" timestamp="1652664999148">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1293" height="295" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652663771041" />
-    <state x="440" y="114" key="SettingsEditor" timestamp="1652518351190">
+    <state width="1293" height="295" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1652664999148" />
+    <state x="440" y="114" key="SettingsEditor" timestamp="1652749189887">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1652518351190" />
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652661822441">
+    <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1652749189887" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652744582795">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652661822441" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652744582795" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1652746452111">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1652746452111" />
   </component>
 </project>

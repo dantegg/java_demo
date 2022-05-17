@@ -33,7 +33,8 @@ public class ListServlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         try {
-                List<ArticleType> firstArticleTypes = shopService.loadFirstArticleTypes();
+            System.out.println("====success");
+            List<ArticleType> firstArticleTypes = shopService.loadFirstArticleTypes();
                 List<Article> articles = shopService.searchArticles();
                 request.setAttribute("firstArticleTypes", firstArticleTypes);
                 request.setAttribute("articles", articles);
