@@ -3,6 +3,7 @@ package com.dantegg.shop.action;
 import com.dantegg.shop.bean.Article;
 import com.dantegg.shop.bean.ArticleType;
 import com.dantegg.shop.service.ShopService;
+import com.mysql.jdbc.StringUtils;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
@@ -22,6 +23,10 @@ public class ListServlet extends HttpServlet {
 
     private ShopService shopService;
 
+    private HttpServletRequest request;
+
+    private HttpServletResponse response;
+
     @Override
     public void init() throws ServletException {
         super.init();
@@ -33,15 +38,32 @@ public class ListServlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         try {
-            System.out.println("====success");
-            List<ArticleType> firstArticleTypes = shopService.loadFirstArticleTypes();
-                List<Article> articles = shopService.searchArticles();
-                request.setAttribute("firstArticleTypes", firstArticleTypes);
-                request.setAttribute("articles", articles);
-                request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);
+            String method = request.getParameter("method");
+            this.request = request;
+            this.response = response;
+            if ("getAll".equals(method)) {
+                getAll();
+            }
+
         } catch (Exception e )   {
             e.printStackTrace();
         }
 
+    }
+
+    private void getAll() throws ServletException, IOException {
+
+        String  typeCode = request.getParameter("typeCode");
+
+        if(!StringUtils.isNullOrEmpty(typeCode)) {
+            List<ArticleType> secondTypes = shopService.loadSecondTypes(typeCode);
+            request.setAttribute("secondTypes", secondTypes);
+        }
+
+        List<ArticleType> firstArticleTypes = shopService.loadFirstArticleTypes();
+        List<Article> articles = shopService.searchArticles(typeCode);
+        request.setAttribute("firstArticleTypes", firstArticleTypes);
+        request.setAttribute("articles", articles);
+        request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);
     }
 }

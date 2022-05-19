@@ -1,6 +1,7 @@
 package com.dantegg.shop.repository;
 
 import com.dantegg.shop.bean.Article;
+import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
 
@@ -10,8 +11,8 @@ import java.util.List;
 public interface ArticleMapper {
 
     /**
-     * @return
+     * @return List<Article>
      */
-    List<Article> searchArticles();
+    List<Article> searchArticles(@Param("typeCode") String typeCode);
 
 }

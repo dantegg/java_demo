@@ -10,184 +10,7 @@
     <list default="true" id="574feff2-cf4b-4c65-9d08-85008be12ebf" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../-javaMybatis" beforeDir="false" afterPath="$PROJECT_DIR$/../-javaMybatis" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/ListServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/action/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/bean/Article.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/bean/ArticleType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/bean/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/repository/ArticleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/repository/ArticleTypeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/repository/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/service/ShopService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/service/ShopServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/utils/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/imooc/shop/utils/Pager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/TestMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/c3p0.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/ArticleTypeServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/ListServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/action/LoginServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/bean/Article.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/bean/ArticleType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/bean/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/repository/ArticleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/repository/ArticleMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/repository/ArticleTypeMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/repository/ArticleTypeMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/repository/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/repository/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/service/ShopService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/service/ShopServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/utils/Constants.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/com/imooc/shop/utils/Pager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/dto.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/classes/spring/application.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/jsp/list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/jsp/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/jsp/preArticle.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/jsp/updateArticle.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/aspectjweaver-1.8.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/c3p0-0.9.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/commons-beanutils-1.8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/commons-collections-3.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/commons-lang-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/commons-logging-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/ezmorph-1.0.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/json-lib-2.4-jdk15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/log4j-1.2.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/mchange-commons-java-0.2.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/mysql-connector-java-5.1.35.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-aop-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-beans-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-context-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-core-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-expression-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-orm-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-tx-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/image/article/81e0476a-5883-4862-b0f6-d454fde234bb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/WdatePicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/calendar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/WdatePicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/datePicker.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/default/datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/default/img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/whyGreen/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/whyGreen/datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/skin/whyGreen/img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/lang/zh-tw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/WdatePicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/datePicker.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/default/datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/default/img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/whyGreen/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/whyGreen/datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/My97DatePicker/开发包/skin/whyGreen/img.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/bootstrap/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/css/taobao.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/image/article/0e0ac4ab-c63b-427f-a708-57a8842f654c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/image/article/0f515ac9-fb3d-4722-b457-46f3459d4da6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/image/article/1bdc87f2-b543-4020-87ae-5585d32bf14f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/image/article/834eef4b-6179-4807-ba4d-731b8ea8d9e4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/image/article/e6470ef4-c93d-4cc0-a5b9-2a6e308c6025.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/image/article/e8030949-1a44-490d-8795-f7fea08bfdac.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0001_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0007_9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_1_0008_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_2_0001_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_2_0001_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_3_0002_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/20130401_4_0001_8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/34105baf-aec5-48e0-a5e1-d574d69aaecf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/8410b17a-31e9-494e-8fd8-36dc7d14a336.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/8450f5cf-f56c-46b3-a12f-504b8a7aabfe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/aec7ea7c-4588-4c3c-b1c4-a662cc58bee8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/ca2e1b3c-ff7b-4458-9be5-f722dc1579c7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/images/article/faf40f8a-35f0-4a82-a5a3-e6d9dc415b75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/jquery/jquery-1.11.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/jquery/jquery-migrate-1.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/jquery/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/shopmgr/resources/js/taobao.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shopping/src/main/java/com/dantegg/shop/repository/ArticleMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring_ioc" beforeDir="false" afterPath="$PROJECT_DIR$/../spring_ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -507,7 +330,9 @@
       <workItem from="1652659538856" duration="3351000" />
       <workItem from="1652744578171" duration="2154000" />
       <workItem from="1652747061847" duration="2881000" />
-      <workItem from="1652750844421" duration="728000" />
+      <workItem from="1652750844421" duration="1335000" />
+      <workItem from="1652838014951" duration="838000" />
+      <workItem from="1652918138597" duration="16000" />
     </task>
     <servers />
   </component>
@@ -587,10 +412,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="114" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1652751576957" />
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652750918665">
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1652838035928">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652750918665" />
+    <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652838035928" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1652746452111">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

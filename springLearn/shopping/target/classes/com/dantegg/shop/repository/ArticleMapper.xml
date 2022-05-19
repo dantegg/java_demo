@@ -6,5 +6,10 @@
 <mapper namespace="com.dantegg.shop.repository.ArticleMapper">
 	<select id="searchArticles" resultType="Article">
 		select * from ec_article
+		<where>
+			<if test="typeCode != null &amp;&amp; typeCode != ''">
+				and TYPE_CODE like CONCAT('', #{typeCode}, "%")
+			</if>
+		</where>
 	</select>
 </mapper>

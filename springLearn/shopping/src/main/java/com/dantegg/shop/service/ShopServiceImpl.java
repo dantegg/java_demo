@@ -63,7 +63,11 @@ public class ShopServiceImpl implements ShopService {
         return articleTypes;
     }
 
-    public List<Article> searchArticles() {
-        return articleMapper.searchArticles();
+    public List<Article> searchArticles(String typeCode) {
+        return articleMapper.searchArticles(typeCode);
+    }
+
+    public List<ArticleType> loadSecondTypes(String typeCode) {
+        return articleTypeMapper.loadSecondTypes(typeCode + "%", typeCode.length() + 4);
     }
 }
