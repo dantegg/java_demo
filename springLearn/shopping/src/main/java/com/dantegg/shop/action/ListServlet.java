@@ -38,6 +38,7 @@ public class ListServlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         try {
+            request.setCharacterEncoding("UTF-8");
             String method = request.getParameter("method");
             this.request = request;
             this.response = response;
@@ -52,16 +53,19 @@ public class ListServlet extends HttpServlet {
     }
 
     private void getAll() throws ServletException, IOException {
-
+        String secondType = request.getParameter("secondType");
+        request.setAttribute("secondType", secondType);
         String  typeCode = request.getParameter("typeCode");
-
+        String title = request.getParameter("title");
+        request.setAttribute("title", title);
         if(!StringUtils.isNullOrEmpty(typeCode)) {
             List<ArticleType> secondTypes = shopService.loadSecondTypes(typeCode);
             request.setAttribute("secondTypes", secondTypes);
+            request.setAttribute("typeCode", typeCode);
         }
 
         List<ArticleType> firstArticleTypes = shopService.loadFirstArticleTypes();
-        List<Article> articles = shopService.searchArticles(typeCode);
+        List<Article> articles = shopService.searchArticles(typeCode, secondType, title);
         request.setAttribute("firstArticleTypes", firstArticleTypes);
         request.setAttribute("articles", articles);
         request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);

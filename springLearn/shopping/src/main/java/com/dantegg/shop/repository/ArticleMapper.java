@@ -13,6 +13,6 @@ public interface ArticleMapper {
     /**
      * @return List<Article>
      */
-    List<Article> searchArticles(@Param("typeCode") String typeCode);
+    List<Article> searchArticles(@Param("typeCode") String typeCode, @Param("secondType") String secondType, @Param("title") String title);
 
 }
