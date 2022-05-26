@@ -6,6 +6,7 @@ import com.dantegg.shop.bean.User;
 import com.dantegg.shop.repository.ArticleMapper;
 import com.dantegg.shop.repository.ArticleTypeMapper;
 import com.dantegg.shop.repository.UserMapper;
+import com.dantegg.shop.utils.Pager;
 import com.mysql.jdbc.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -63,8 +64,8 @@ public class ShopServiceImpl implements ShopService {
         return articleTypes;
     }
 
-    public List<Article> searchArticles(String typeCode, String secondType, String title) {
-        return articleMapper.searchArticles(typeCode, secondType, title);
+    public List<Article> searchArticles(String typeCode, String secondType, String title, Pager pager) {
+        return articleMapper.searchArticles(typeCode, secondType, title, pager);
     }
 
     public List<ArticleType> loadSecondTypes(String typeCode) {

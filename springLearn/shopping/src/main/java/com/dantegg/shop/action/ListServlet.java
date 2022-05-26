@@ -3,6 +3,7 @@ package com.dantegg.shop.action;
 import com.dantegg.shop.bean.Article;
 import com.dantegg.shop.bean.ArticleType;
 import com.dantegg.shop.service.ShopService;
+import com.dantegg.shop.utils.Pager;
 import com.mysql.jdbc.StringUtils;
 import org.springframework.web.context.WebApplicationContext;
 import org.springframework.web.context.support.WebApplicationContextUtils;
@@ -53,6 +54,13 @@ public class ListServlet extends HttpServlet {
     }
 
     private void getAll() throws ServletException, IOException {
+        Pager pager = new Pager();
+        String pageIndex = request.getParameter("pageIndex");
+        if(!StringUtils.isNullOrEmpty(pageIndex)) {
+            int pSize = Integer.valueOf(pageIndex);
+            pager.setPageIndex(pSize);
+
+        }
         String secondType = request.getParameter("secondType");
         request.setAttribute("secondType", secondType);
         String  typeCode = request.getParameter("typeCode");
@@ -65,7 +73,7 @@ public class ListServlet extends HttpServlet {
         }
 
         List<ArticleType> firstArticleTypes = shopService.loadFirstArticleTypes();
-        List<Article> articles = shopService.searchArticles(typeCode, secondType, title);
+        List<Article> articles = shopService.searchArticles(typeCode, secondType, title, pager);
         request.setAttribute("firstArticleTypes", firstArticleTypes);
         request.setAttribute("articles", articles);
         request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);
