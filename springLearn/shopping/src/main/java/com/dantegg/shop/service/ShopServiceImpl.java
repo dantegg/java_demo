@@ -65,6 +65,8 @@ public class ShopServiceImpl implements ShopService {
     }
 
     public List<Article> searchArticles(String typeCode, String secondType, String title, Pager pager) {
+        int count = articleMapper.count(typeCode, secondType, title);
+        pager.setTotalCount(count);
         return articleMapper.searchArticles(typeCode, secondType, title, pager);
     }
 

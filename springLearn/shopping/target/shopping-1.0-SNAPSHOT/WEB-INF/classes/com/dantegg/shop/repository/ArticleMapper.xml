@@ -4,8 +4,7 @@
 	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
 <mapper namespace="com.dantegg.shop.repository.ArticleMapper">
-	<select id="searchArticles" resultType="Article">
-		select * from ec_article
+	<sql id="pageWhere">
 		<where>
 			<if test="typeCode != null &amp;&amp; typeCode != ''">
 				and TYPE_CODE like CONCAT('', #{typeCode}, "%")
@@ -17,5 +16,15 @@
 				and title like CONCAT('%', #{title}, "%")
 			</if>
 		</where>
+	</sql>
+	<select id="searchArticles" resultType="Article">
+		select * from ec_article
+		<include refid="pageWhere"/>
+		LIMIT #{pager.firstParam}, #{pager.pageSize}
+	</select>
+
+	<select id="count" resultType="int">
+		select count(*) from ec_article
+		<include refid="pageWhere"/>
 	</select>
 </mapper>

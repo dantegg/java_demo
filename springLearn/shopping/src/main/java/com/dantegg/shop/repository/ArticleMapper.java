@@ -17,4 +17,5 @@ public interface ArticleMapper {
     List<Article> searchArticles(@Param("typeCode") String typeCode, @Param("secondType") String secondType, @Param("title") String title,
                                  @Param("pager")Pager pager);
 
+    int count(@Param("typeCode")String typeCode, @Param("secondType")String secondType, @Param("title")String title);
 }

@@ -76,6 +76,7 @@ public class ListServlet extends HttpServlet {
         List<Article> articles = shopService.searchArticles(typeCode, secondType, title, pager);
         request.setAttribute("firstArticleTypes", firstArticleTypes);
         request.setAttribute("articles", articles);
+        request.setAttribute("pager", pager);
         request.getRequestDispatcher("/WEB-INF/jsp/list.jsp").forward(request, response);
     }
 }
