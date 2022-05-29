@@ -45,12 +45,28 @@ public class ListServlet extends HttpServlet {
             this.response = response;
             if ("getAll".equals(method)) {
                 getAll();
+            } else if ("deleteById".equals(method)) {
+                deleteById();
             }
 
         } catch (Exception e )   {
             e.printStackTrace();
         }
 
+    }
+
+    private void deleteById() throws ServletException, IOException {
+        try {
+            String id = request.getParameter("id");
+            shopService.deleteById(id);
+            request.setAttribute("tip", "删除成功");
+
+        } catch (Exception e ) {
+            e.printStackTrace();
+            request.setAttribute("tip", "删除失败");
+
+        }
+        request.getRequestDispatcher("/list?method=getAll").forward(request, response);
     }
 
     private void getAll() throws ServletException, IOException {

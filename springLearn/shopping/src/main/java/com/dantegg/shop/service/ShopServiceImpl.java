@@ -73,4 +73,8 @@ public class ShopServiceImpl implements ShopService {
     public List<ArticleType> loadSecondTypes(String typeCode) {
         return articleTypeMapper.loadSecondTypes(typeCode + "%", typeCode.length() + 4);
     }
+
+    public void deleteById(String id) {
+        articleMapper.deleteById(id);
+    }
 }

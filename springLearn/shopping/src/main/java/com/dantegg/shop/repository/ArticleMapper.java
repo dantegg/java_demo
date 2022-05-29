@@ -2,6 +2,7 @@ package com.dantegg.shop.repository;
 
 import com.dantegg.shop.bean.Article;
 import com.dantegg.shop.utils.Pager;
+import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.Param;
 
 import java.util.List;
@@ -18,4 +19,7 @@ public interface ArticleMapper {
                                  @Param("pager")Pager pager);
 
     int count(@Param("typeCode")String typeCode, @Param("secondType")String secondType, @Param("title")String title);
+
+    @Delete("delete from ec_article where id = #{xxxx}")
+    void deleteById(String id);
 }
